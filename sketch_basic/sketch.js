@@ -1,5 +1,3 @@
-// just draws a circle
-
 function setup() {
 	// create a place to draw
 	createCanvas(640, 360);
@@ -16,5 +14,5 @@ function draw() {
 	strokeWeight(10);
 
 	// draw a circle
-	ellipse(320, 180, 100, 100);
+	ellipse(10, 10, 100, 100);
 }
